@@ -4,5 +4,4 @@ We have included a csv that we are able to download from WordPress with all the 
 
 Below is the walkthrough video of our WordPress website. Due to limitation of the upload size on github, we have uploaded the video to YouTube and the video link is provided below.
 
-![Media Library](https://github.com/user-attachments/assets/c705e97e-da88-4625-86d7-895fb737a8fd)
-
+https://youtu.be/W5isnANqpQw
