@@ -8,4 +8,4 @@ Authorized users can log in to inside.ewu.edu and access the WordPress dashboard
 
 **Usage Details**:
 The website serves as a research and educational platform, allowing users to explore scholarly articles, multimedia resources, and community discussions. Visitors can access research links, view images and videos, and submit feedback through the online feedback form, with responses securely stored for review by the website editor.
-A walkthrough video demonstrating the website’s features, including content management and feedback handling, is available on YouTube:
+A walkthrough video demonstrating the website’s features, including content management and feedback handling, is available on YouTube: https://youtu.be/owzdgk9xuRQ
